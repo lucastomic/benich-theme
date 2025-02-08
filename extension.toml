@@ -1,0 +1,7 @@
+id = "benich-theme"
+name = "Benich theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Lucas Tomic Benitez <ltomicb@gmail.com>"]
+description = "Dark theme"
+repository = "https://github.com/lucastomic/benich-theme"
