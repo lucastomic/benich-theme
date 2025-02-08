@@ -2,6 +2,6 @@
 
 Dark awesome theme for the Zed IDE
 
-## Tokyo Night Light
+## Screenshot
 
 ![benich](./theme-screenshot.png)
