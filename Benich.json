@@ -7,7 +7,7 @@
       "name": "Benich",
       "appearance": "dark",
       "style": {
-        "border": "#e7f2fe09",
+        "border": "#2f2f2f",
         "border.variant": "#aaaabf33",
         "border.focused": "#aaaabf77",
         "border.selected": "#aaaabfbb",
@@ -53,8 +53,8 @@
         "scrollbar.track.background": "#191920ff",
         "scrollbar.track.border": "#aaaabf44",
         "editor.foreground": null,
-        "editor.background": "#0f0f10",
-        "editor.gutter.background": "#0f0f10",
+        "editor.background": "#171718",
+        "editor.gutter.background": "#171718",
         "editor.subheader.background": null,
         "editor.active_line.background": "#212129cc",
         "editor.highlighted_line.background": null,
@@ -92,7 +92,7 @@
         "modified": "#6bd6fbff",
         "modified.background": null,
         "modified.border": null,
-        "predictive": "#191920FF",
+        "predictive": "#8383a8",
         "predictive.background": "#191920FF",
         "predictive.border": null,
         "renamed": null,
@@ -320,7 +320,7 @@
             "font_weight": 400
           },
           "type": {
-            "color": "#81a8ff",
+            "color": "#dcd994",
             "font_style": null,
             "font_weight": null
           },
